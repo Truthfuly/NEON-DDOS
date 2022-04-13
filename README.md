@@ -16,7 +16,7 @@
 
 # Usage
        
- NEO                                     
+ NEON                                     
         DDos Python Script
          Author: Truthfuly                                              
          Github: https://github.com/Truthfuly                       
