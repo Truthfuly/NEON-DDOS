@@ -1,4 +1,4 @@
-# pyddos.py
+
 
 # NEON | ফাক দা ওয়েব
 * এই স্ক্রিপ্টে 3 ধরনের DDos ​​আক্রমণ রয়েছে : SYNFLOOD | REQUEST | Pyslow
